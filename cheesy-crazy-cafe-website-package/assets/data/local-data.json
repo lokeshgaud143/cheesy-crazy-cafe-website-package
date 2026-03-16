@@ -1,0 +1,1566 @@
+{
+  "settings": {
+    "site_name": "Cheesy Crazy Cafe",
+    "tagline": "Premium café vibes, comfort food, signature pizzas, shakes, and unforgettable desserts in Pratap Nagar, Jaipur.",
+    "phone_display": "+91 95095 52466",
+    "phone_digits": "919509552466",
+    "email": "hello@cheesycrazycafe.in",
+    "address": "112/SP-4, Sector 11 Rd, near Sect. 11 Govt. Dispensary, Kumbha Marg, Sanganer, Sector 11, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "open_hours": "Daily • 8:00 AM – 10:30 PM",
+    "google_business_query": "Cheesy Crazy Cafe, 112/SP-4, Kumbha Marg, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "instagram_url": "https://www.instagram.com/cheesycrazycafe_pratapnagar/",
+    "facebook_url": "https://www.facebook.com/cheesycrazycafeindiaofficial/",
+    "zomato_url": "https://www.zomato.com/jaipur/cheesy-crazy-cafe-pratap-nagar",
+    "maps_url": "https://maps.app.goo.gl/yDz49ai9cPqgPXuE9",
+    "cost_for_two": 600,
+    "rating_display": "4.9",
+    "reviews_display": "1K+",
+    "hero_cta_text": "Order on WhatsApp",
+    "contact_form_success_message": "Thanks! Your message has been sent."
+  },
+  "media": [
+    {
+      "type": "hero",
+      "title": "Cafe Interior",
+      "image_url": "https://b.zmtcdn.com/data/pictures/6/20992566/22142d1f986b48e1cbedf7153ed7139d.jpg",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "type": "hero",
+      "title": "Signature Pizza",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1400&q=80",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "type": "hero",
+      "title": "Premium Cold Coffee",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1400&q=80",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Cafe Interior",
+      "image_url": "https://b.zmtcdn.com/data/pictures/6/20992566/22142d1f986b48e1cbedf7153ed7139d.jpg",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Signature Pizza",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Premium Shake",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Dessert Waffle",
+      "image_url": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=1200&q=80",
+      "sort_order": 4,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Loaded Pasta",
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=80",
+      "sort_order": 5,
+      "is_active": true
+    },
+    {
+      "type": "gallery",
+      "title": "Sandwich & Snacks",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "sort_order": 6,
+      "is_active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "A cafe customer",
+      "quote": "Loved the vibe, presentation and cheesy dishes. Great place to hang out with friends.",
+      "rating": 5,
+      "is_active": true
+    },
+    {
+      "name": "Local foodie",
+      "quote": "Amazing shakes, loaded pizzas and a premium interior experience in Pratap Nagar.",
+      "rating": 5,
+      "is_active": true
+    },
+    {
+      "name": "Repeat customer",
+      "quote": "The menu variety is huge and the food feels worth the price. Excellent for group visits.",
+      "rating": 5,
+      "is_active": true
+    }
+  ],
+  "menu": [
+    {
+      "category": "Hot Beverages",
+      "name": "Masala Tea",
+      "price": 25.0,
+      "description": "Black tea with milk and aromatic spices.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Ginger Tea",
+      "price": 25.0,
+      "description": "Comforting hot tea with zesty ginger.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Black Tea",
+      "price": 25.0,
+      "description": "Bold classic tea served hot.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Lemon Tea",
+      "price": 25.0,
+      "description": "Hot tea with fresh lemon zing.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Green Tea",
+      "price": 30.0,
+      "description": "Antioxidant-rich green tea with earthy notes.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Desi Kahwa",
+      "price": 30.0,
+      "description": "Spiced kahwa with cardamom, cinnamon and cloves.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Chocolate Tea",
+      "price": 30.0,
+      "description": "A cozy fusion of black tea and cocoa.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Black Coffee",
+      "price": 30.0,
+      "description": "Pure coffee brewed strong and clean.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Hot Milk",
+      "price": 35.0,
+      "description": "Fresh creamy milk served warm.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Hot Bournvita",
+      "price": 40.0,
+      "description": "Chocolate malt drink with hot milk.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Hot Coffee",
+      "price": 45.0,
+      "description": "Milk coffee with bold coffee notes.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Hazelnut Coffee",
+      "price": 49.0,
+      "description": "Hot coffee with smooth hazelnut sweetness.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Hot Beverages",
+      "name": "Hot Milk Chocolate",
+      "price": 59.0,
+      "description": "Rich hot chocolate with creamy milk.",
+      "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Strawberry Mastani",
+      "price": 139.0,
+      "description": "Thick strawberry shake topped with strawberry ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Pista Mastani",
+      "price": 139.0,
+      "description": "Pistachio thick shake topped with ice cream and crushed pista.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Butterscotch Mastani",
+      "price": 149.0,
+      "description": "Creamy butterscotch mastani with crunchy bits.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Mango Mastani",
+      "price": 149.0,
+      "description": "Mango shake topped with ice cream and mango chunks.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Chocolate Mastani",
+      "price": 149.0,
+      "description": "Chocolate shake with chocolate ice cream, syrup and nuts.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Anjeer Mastani",
+      "price": 179.0,
+      "description": "Creamy fig mastani garnished with dry fruits.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mastani",
+      "name": "Dry Fruit Mastani",
+      "price": 179.0,
+      "description": "Luxurious thick shake with rich dry fruits and ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Lemon Iced Tea",
+      "price": 79.0,
+      "description": "Brewed tea with fresh lemon over ice.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Watermelon Iced Tea",
+      "price": 89.0,
+      "description": "Refreshing watermelon infused iced tea.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Peach Iced Tea",
+      "price": 89.0,
+      "description": "Smooth tea with sweet peach flavour.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Guava Iced Tea",
+      "price": 99.0,
+      "description": "Tropical guava twist on iced tea.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Mango Iced Tea",
+      "price": 99.0,
+      "description": "Mango infused chilled iced tea.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Iced Tea",
+      "name": "Green Apple Iced Tea",
+      "price": 99.0,
+      "description": "Tangy green apple iced tea.",
+      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cold Coffee",
+      "name": "Simple Cold Coffee",
+      "price": 69.0,
+      "description": "Classic cold coffee blended with milk and ice.",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cold Coffee",
+      "name": "Thick Cold Coffee",
+      "price": 79.0,
+      "description": "Rich thick cold coffee with condensed milk.",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cold Coffee",
+      "name": "Hazelnut Cold Coffee",
+      "price": 89.0,
+      "description": "Creamy chilled hazelnut cold coffee.",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Cold Coffee",
+      "name": "Caramel Cold Coffee",
+      "price": 89.0,
+      "description": "Cold coffee with sweet caramel syrup.",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cold Coffee",
+      "name": "Special Crunch Cold Coffee",
+      "price": 99.0,
+      "description": "Cold coffee with creamy texture and crunchy topping.",
+      "image_url": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Fresh Lemon (Soda)",
+      "price": 79.0,
+      "description": "Zesty lemon soda mocktail.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Strawberry Mocktail",
+      "price": 89.0,
+      "description": "Sweet strawberry mocktail with citrus splash.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Mango Mocktail",
+      "price": 89.0,
+      "description": "Tropical mango cooler.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Black Currant Mocktail",
+      "price": 89.0,
+      "description": "Tangy black currant refresher.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Guava Mocktail",
+      "price": 89.0,
+      "description": "Sweet and tangy guava cooler.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Mint Mojito",
+      "price": 89.0,
+      "description": "Fresh mint and lime cooler.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Spicy Kiwi Mocktail",
+      "price": 99.0,
+      "description": "Kiwi drink with a spicy chili kick.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Watermelon Mocktail",
+      "price": 99.0,
+      "description": "Watermelon, mint and lime summer refresher.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Blue Lagoon Mocktail",
+      "price": 99.0,
+      "description": "Blue curaçao style citrus mocktail.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Mocktails",
+      "name": "Green Apple Mocktail",
+      "price": 99.0,
+      "description": "Tart-sweet green apple mocktail.",
+      "image_url": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Vanilla Shake",
+      "price": 99.0,
+      "description": "Classic creamy vanilla shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Strawberry Shake",
+      "price": 99.0,
+      "description": "Strawberry milkshake with fruity sweetness.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Guava Shake",
+      "price": 99.0,
+      "description": "Creamy guava shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Butterscotch Shake",
+      "price": 109.0,
+      "description": "Buttery caramel butterscotch shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Mango Shake",
+      "price": 109.0,
+      "description": "Refreshing mango milkshake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Black Currant Shake",
+      "price": 109.0,
+      "description": "Sweet-tart black currant shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Chocolate Shake",
+      "price": 109.0,
+      "description": "Rich velvety chocolate shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Kesar Pista Shake",
+      "price": 119.0,
+      "description": "Saffron pista flavoured creamy shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Dairy Milk Shake",
+      "price": 119.0,
+      "description": "Cadbury Dairy Milk inspired chocolate shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Oreo Shake",
+      "price": 119.0,
+      "description": "Creamy shake blended with Oreo chunks.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "KitKat Shake",
+      "price": 129.0,
+      "description": "Crunchy KitKat chocolate shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Brownie Shake",
+      "price": 129.0,
+      "description": "Chocolate shake blended with brownie chunks.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Shakes",
+      "name": "Ferrero Shake",
+      "price": 149.0,
+      "description": "Ferrero Rocher inspired premium shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Shakes",
+      "name": "Dry Fruits Shake",
+      "price": 149.0,
+      "description": "Nutty dry fruits shake.",
+      "image_url": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Wraps",
+      "name": "Aloo Tikki Wrap",
+      "price": 119.0,
+      "description": "Veggie wrap with crispy potato patty and tangy chutneys.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Wraps",
+      "name": "Peri Peri Wrap",
+      "price": 129.0,
+      "description": "Veg wrap with spicy peri peri kick.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Wraps",
+      "name": "Salad Wrap",
+      "price": 129.0,
+      "description": "Fresh greens and creamy dressing in a tortilla.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Wraps",
+      "name": "Makhani Wrap",
+      "price": 129.0,
+      "description": "Potato patty wrap with tangy makhani sauce.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Wraps",
+      "name": "Paneer Tikka Wrap",
+      "price": 149.0,
+      "description": "Paneer tikka wrap with crisp veggies.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Wraps",
+      "name": "Tandoori Paneer Wrap",
+      "price": 159.0,
+      "description": "Paneer wrap with tandoori sauce and veggies.",
+      "image_url": "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Toast & Salad",
+      "name": "Bread Butter Toast",
+      "price": 49.0,
+      "description": "Golden toasted bread with butter.",
+      "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Toast & Salad",
+      "name": "Chilli Cheese Toast",
+      "price": 99.0,
+      "description": "Cheesy toast with spicy green chillies.",
+      "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Toast & Salad",
+      "name": "Veg Salad",
+      "price": 109.0,
+      "description": "Fresh veggie salad tossed in house sauces.",
+      "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Toast & Salad",
+      "name": "Paneer Tikka Salad",
+      "price": 149.0,
+      "description": "Paneer salad with olives, jalapenos and veggies.",
+      "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pasta",
+      "name": "Red Sauce Pasta",
+      "price": 169.0,
+      "description": "Classic pasta in tomato sauce with veggies.",
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pasta",
+      "name": "White Sauce Pasta",
+      "price": 169.0,
+      "description": "Creamy white sauce pasta with mushrooms and veggies.",
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pasta",
+      "name": "Pink Sauce Pasta",
+      "price": 179.0,
+      "description": "White and red sauce pasta with olives and veggies.",
+      "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Garlic Bread",
+      "name": "Simply Garlic Bread",
+      "price": 89.0,
+      "description": "Classic garlic butter bread.",
+      "image_url": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Garlic Bread",
+      "name": "Cheesy Garlic Bread",
+      "price": 99.0,
+      "description": "Garlic bread with gooey melted cheese.",
+      "image_url": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Garlic Bread",
+      "name": "Spicy Garlic Bread",
+      "price": 119.0,
+      "description": "Garlic bread with herbs and a spicy kick.",
+      "image_url": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Garlic Bread",
+      "name": "Paneer Tikka Garlic Bread",
+      "price": 139.0,
+      "description": "Garlic bread loaded with paneer tikka and cheese.",
+      "image_url": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Spring Rolls (4 pcs)",
+      "price": 109.0,
+      "description": "Crispy vegetable spring rolls.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Chilli Potato",
+      "price": 139.0,
+      "description": "Crispy potato tossed in spicy tangy sauce.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Honey Chilli Potato",
+      "price": 159.0,
+      "description": "Sweet and spicy crispy potato dish.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Manchurian (Dry/Gravy)",
+      "price": 139.0,
+      "description": "Veg manchurian in tangy sauce.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Hakka Noodles",
+      "price": 149.0,
+      "description": "Stir-fried noodles with vegetables.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Chilli Garlic Noodles",
+      "price": 159.0,
+      "description": "Spicy garlic noodles with veggies.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chinese & Sides",
+      "name": "Chilli Paneer",
+      "price": 199.0,
+      "description": "Paneer cubes sautéed with chillies and onions.",
+      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Veg Sandwich",
+      "price": 99.0,
+      "description": "Classic grilled veg sandwich.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Sweet Corn Sandwich",
+      "price": 99.0,
+      "description": "Grilled sandwich with sweet corn and sauces.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Peri Peri Veg Sandwich",
+      "price": 109.0,
+      "description": "Veg sandwich with fiery peri peri seasoning.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Makhani Sandwich",
+      "price": 109.0,
+      "description": "Veg sandwich with tangy makhani flavours.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Tandoori Veg Sandwich",
+      "price": 109.0,
+      "description": "Tandoori-spiced vegetable grilled sandwich.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Paneer Tikka Sandwich",
+      "price": 139.0,
+      "description": "Grilled sandwich with paneer tikka filling.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Tandoori Paneer Sandwich",
+      "price": 149.0,
+      "description": "Tandoori paneer grilled sandwich.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Americano Sandwich",
+      "price": 179.0,
+      "description": "Loaded sandwich with veggies, mayo and cheese.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sandwiches",
+      "name": "Overloaded (Triple Layer)",
+      "price": 179.0,
+      "description": "Triple-layer sandwich with veggies, olives and jalapenos.",
+      "image_url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "Margherita Pizza",
+      "price": 159.0,
+      "description": "Classic mozzarella pizza with tomato sauce.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "OTC Pizza",
+      "price": 169.0,
+      "description": "Onion, tomato and capsicum pizza.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "Sweet Corn Pizza",
+      "price": 179.0,
+      "description": "Cheesy pizza topped with sweet corn.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "Tandoori Pizza",
+      "price": 189.0,
+      "description": "Bold smoky pizza with tandoori flavours.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "Makhani Pizza",
+      "price": 189.0,
+      "description": "Pizza with tangy makhani-inspired sauce.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "Paneer Tikka Pizza",
+      "price": 199.0,
+      "description": "Paneer tikka pizza with rich cheese layer.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Pizza",
+      "name": "Fully Loaded Pizza",
+      "price": 209.0,
+      "description": "Loaded with olives, jalapenos and capsicums.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pizza",
+      "name": "CCC 6-Senses Pizza (Premium)",
+      "price": 329.0,
+      "description": "Premium pizza with six unique slice flavours.",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Maggi",
+      "name": "Plain Maggi",
+      "price": 59.0,
+      "description": "Classic Maggi noodles with signature spices.",
+      "image_url": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Maggi",
+      "name": "Veg Maggi",
+      "price": 69.0,
+      "description": "Maggi with mixed vegetables.",
+      "image_url": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Maggi",
+      "name": "Peri Peri Maggi",
+      "price": 79.0,
+      "description": "Maggi tossed in peri peri seasoning.",
+      "image_url": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Maggi",
+      "name": "Tadka Maggi",
+      "price": 89.0,
+      "description": "Maggi tempered with Indian spices.",
+      "image_url": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Maggi",
+      "name": "Paneer Maggi",
+      "price": 99.0,
+      "description": "Maggi with paneer, veggies and spices.",
+      "image_url": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Potato Garlic Shots",
+      "name": "Chilli Potato Garlic Shots",
+      "price": 89.0,
+      "description": "Crispy chilli-garlic potato bites (8 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Potato Garlic Shots",
+      "name": "Peri Peri Potato Garlic Shots",
+      "price": 89.0,
+      "description": "Peri peri potato garlic bites (8 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Potato Garlic Shots",
+      "name": "Chipotle Potato Garlic Shots",
+      "price": 89.0,
+      "description": "Chipotle flavoured potato garlic bites (8 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Potato Garlic Shots",
+      "name": "Tandoori Potato Garlic Shots",
+      "price": 89.0,
+      "description": "Tandoori spiced potato garlic bites (8 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Potato Garlic Shots",
+      "name": "Makhani Potato Garlic Shots",
+      "price": 89.0,
+      "description": "Makhani-style potato garlic bites.",
+      "image_url": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cheese Corn Nuggets",
+      "name": "Simply Cheese Corn Nuggets",
+      "price": 99.0,
+      "description": "Cheese and sweet corn nuggets (5 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cheese Corn Nuggets",
+      "name": "Peri Peri Cheese Corn Nuggets",
+      "price": 99.0,
+      "description": "Peri peri cheese corn nuggets (5 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cheese Corn Nuggets",
+      "name": "Chipotle Cheese Corn Nuggets",
+      "price": 99.0,
+      "description": "Chipotle cheese corn nuggets (5 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cheese Corn Nuggets",
+      "name": "Tandoori Cheese Corn Nuggets",
+      "price": 99.0,
+      "description": "Tandoori cheese corn nuggets (5 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Cheese Corn Nuggets",
+      "name": "Makhani Cheese Corn Nuggets",
+      "price": 99.0,
+      "description": "Makhani flavoured cheese corn nuggets (5 pcs).",
+      "image_url": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Simply Veg Momos",
+      "price": 79.0,
+      "description": "Classic veg momos with savoury filling.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Paneer Tikka Momos",
+      "price": 89.0,
+      "description": "Paneer tikka stuffed crispy momos.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Peri Peri Momos",
+      "price": 89.0,
+      "description": "Peri peri flavoured veg momos.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Kukure Veg Momos",
+      "price": 99.0,
+      "description": "Crunchy kurkure-style veg momos.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Kukure Paneer Momos",
+      "price": 119.0,
+      "description": "Crispy coated paneer momos.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Momos",
+      "name": "Momos Platter [2 each]",
+      "price": 145.0,
+      "description": "2 pcs each of Simply, Paneer Tikka, Peri Peri and Kukure momos.",
+      "image_url": "https://images.unsplash.com/photo-1617622141573-2d3f9f0c4c7b?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Peanut Chaat",
+      "name": "Simply Peanut Chaat",
+      "price": 119.0,
+      "description": "Roasted peanuts with chaat masala and lemon.",
+      "image_url": "https://images.unsplash.com/photo-1514516345957-556ca7f67aa1?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Peanut Chaat",
+      "name": "Peri Peri Peanut Chaat",
+      "price": 129.0,
+      "description": "Peanut chaat with peri peri twist.",
+      "image_url": "https://images.unsplash.com/photo-1514516345957-556ca7f67aa1?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Nachos",
+      "name": "Cheesy Nachos",
+      "price": 109.0,
+      "description": "Nachos loaded with melted cheese.",
+      "image_url": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Nachos",
+      "name": "Jalapeno & Olive Nachos",
+      "price": 139.0,
+      "description": "Nachos topped with jalapenos and olives.",
+      "image_url": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Nachos",
+      "name": "Overloaded Nachos",
+      "price": 159.0,
+      "description": "Nachos loaded with veggies, olives, jalapenos and mayo.",
+      "image_url": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Snacks & Bowls",
+      "name": "Mini Samosa [4 pcs]",
+      "price": 99.0,
+      "description": "Crispy mini samosas with spiced potato filling.",
+      "image_url": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Snacks & Bowls",
+      "name": "Hara Bhara Kebab [6 pcs]",
+      "price": 99.0,
+      "description": "Spinach and peas kebabs with aromatic spices.",
+      "image_url": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Snacks & Bowls",
+      "name": "Veggie Fingers [6 pcs]",
+      "price": 99.0,
+      "description": "Crunchy veggie finger snacks.",
+      "image_url": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Snacks & Bowls",
+      "name": "Pizza Bowl",
+      "price": 99.0,
+      "description": "Cheesy pizza-style baked bowl with toppings.",
+      "image_url": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pancakes",
+      "name": "Simply Pancakes",
+      "price": 99.0,
+      "description": "Classic pancakes drizzled with caramel sauce.",
+      "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pancakes",
+      "name": "Retro Chocolate Pancakes",
+      "price": 109.0,
+      "description": "Chocolate sauce and nut-topped pancakes.",
+      "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pancakes",
+      "name": "Hazelnut Pancakes",
+      "price": 119.0,
+      "description": "Buttery pancakes with hazelnut syrup.",
+      "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Pancakes",
+      "name": "Ferrero Nutella Crunch Pancakes",
+      "price": 159.0,
+      "description": "Nutella pancakes topped with Ferrero crunch.",
+      "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sundaes",
+      "name": "Hot Choco Fudge Sundae",
+      "price": 129.0,
+      "description": "Vanilla ice cream with hot fudge and nuts.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Sundaes",
+      "name": "Black Forest Sundae",
+      "price": 159.0,
+      "description": "Chocolate ice cream, cherry compote and chocolate shavings.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Waffles",
+      "name": "Classic Caramel Waffle with ice cream",
+      "price": 99.0,
+      "description": "Crisp waffle with caramel and ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Waffles",
+      "name": "Kitkat Crunch Waffle with ice cream",
+      "price": 129.0,
+      "description": "Waffle with Nutella and KitKat pieces.",
+      "image_url": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Waffles",
+      "name": "Nutella Waffle with ice cream",
+      "price": 129.0,
+      "description": "Waffle topped with creamy Nutella.",
+      "image_url": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Waffles",
+      "name": "Nutella Brownie Waffle with ice cream",
+      "price": 169.0,
+      "description": "Nutella waffle with brownie chunks and ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Chocolava",
+      "name": "Simply Chocolava",
+      "price": 79.0,
+      "description": "Warm molten chocolate lava cake.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Chocolava",
+      "name": "Chocolava with Ice Cream",
+      "price": 99.0,
+      "description": "Chocolate lava cake served with ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Vanilla Ice Cream",
+      "price": 35.0,
+      "description": "Classic vanilla scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Strawberry Ice Cream",
+      "price": 35.0,
+      "description": "Strawberry flavoured scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Pista Ice Cream",
+      "price": 35.0,
+      "description": "Pistachio scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Butterscotch Ice Cream",
+      "price": 45.0,
+      "description": "Butterscotch scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Mango Ice Cream",
+      "price": 45.0,
+      "description": "Mango scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Chocolate Ice Cream",
+      "price": 50.0,
+      "description": "Chocolate scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Ice Cream",
+      "name": "Black Currant",
+      "price": 50.0,
+      "description": "Black currant ice cream scoop.",
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Special Brownie",
+      "price": 119.0,
+      "description": "Rich brownie topped with nuts and dry fruits.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Special Brownie with Ice Cream",
+      "price": 139.0,
+      "description": "Special brownie served with vanilla ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Nutella Brownie",
+      "price": 149.0,
+      "description": "Decadent brownie with Nutella and chocolate chips.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Nutella brownie with Ice Cream",
+      "price": 169.0,
+      "description": "Warm Nutella brownie with vanilla ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Sizzling Brownie",
+      "price": 169.0,
+      "description": "Chocolate brownie on a sizzling skillet.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Sizzling Brownie with Ice Cream",
+      "price": 179.0,
+      "description": "Sizzling brownie topped with ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Oreo Sizzling Brownie",
+      "price": 199.0,
+      "description": "Sizzling brownie with Oreo crumble and nuts.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Birthday Brownie",
+      "price": 199.0,
+      "description": "Celebration brownie with colourful toppings.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Brownies & Desserts",
+      "name": "Dessert Platter",
+      "price": 249.0,
+      "description": "5 pcs simple pancake + 1 classic waffle + 1 special brownie + 1 vanilla ice cream.",
+      "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Combos",
+      "name": "C1 : 2 Masala Tea + 1 Veg Maggie",
+      "price": 99.0,
+      "description": "Tea and veg Maggi combo.",
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Combos",
+      "name": "C2 : 2 Masala tea + 1 Veg Sandwich",
+      "price": 129.0,
+      "description": "Tea and veg sandwich combo.",
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Combos",
+      "name": "C3 : 1 Sp. Cold Coffee + 1 Simple Burger (Veg)",
+      "price": 139.0,
+      "description": "Special cold coffee plus veg burger combo.",
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Combos",
+      "name": "C4 : 1 Lemon Iced Tea + 1 OTC Pizza (Regular)",
+      "price": 229.0,
+      "description": "Lemon iced tea and OTC pizza combo.",
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Soups",
+      "name": "Sweet Corn Soup",
+      "price": 79.0,
+      "description": "Creamy sweet corn soup.",
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Soups",
+      "name": "Manchow Soup",
+      "price": 79.0,
+      "description": "Spicy and savoury manchow soup.",
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Soups",
+      "name": "Tomato Soup",
+      "price": 79.0,
+      "description": "Rich tomato soup.",
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "category": "Soups",
+      "name": "Hot & Sour Soup",
+      "price": 79.0,
+      "description": "Hot and sour aromatic soup.",
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+      "is_active": true,
+      "is_featured": false
+    }
+  ]
+}
